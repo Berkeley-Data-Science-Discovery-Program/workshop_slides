@@ -1,10 +1,9 @@
 # workshop_slides
-Slides for the workshop
+Slides for the Data Science Discovery Team Lead Seminar
 
 - Project management [[Slides](https://slides.com/jaeyeonkim/how-to-make-a-data-science-project-robust#/)]
 - Computational reproducibility and version control [[Slides](https://slides.com/jaeyeonkim/how-to-make-a-data-science-project-reproducible#/)]
 
-Please feel free to make any comments or suggestions! I value your feedback. 
+Please feel free to make any comments or suggestions! We value your feedback.
 
-Thanks, 
-Jae
+Arlo, Jae, and Ishan 
